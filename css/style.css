@@ -10,7 +10,7 @@
 
 body {
   background-color: #fff;
-  min-height: 1000vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   font-family: 'Barlow', sans-serif;
