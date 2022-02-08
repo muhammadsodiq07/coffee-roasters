@@ -663,6 +663,7 @@ body {
   .footer__img {  
     width: 200px;
     margin-bottom: 30px;
+    margin-right: 27px;
   }
   .footer__list {
     flex-direction: column;
@@ -681,8 +682,9 @@ body {
   }
 
   .choose__list {
+    margin: 0 auto;
     position: relative;
-    right: 1px;
+    right: 5px;
   }
 
   .choose__box {
