@@ -415,7 +415,11 @@ line-height: 25px;
 
 
 
-
+@media screen and (max-width: 1290px) {
+  .drink__button {
+    padding-left: 500px;
+  }
+}
 
 
 
